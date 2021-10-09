@@ -10,7 +10,7 @@ html{
 /*parallax1 with aboutus*/
 .parallax1{
     background-image:url(https://user-images.githubusercontent.com/90179006/136668269-abe943a2-47cf-4551-96bd-4ccc8646e3c0.png);
-    min-width: 500px;
+    min-width: 480px;
     min-height: 600px;
     background-attachment: fixed;
     background-position: center;
@@ -157,7 +157,7 @@ html{
 
 .parallax2{
     background-image:url(https://user-images.githubusercontent.com/90179006/136668269-abe943a2-47cf-4551-96bd-4ccc8646e3c0.png) ;
-    min-width: 500px;
+    min-width: 480px;
     min-height: 500px;
     background-attachment: fixed;
     background-position: center;
@@ -260,7 +260,7 @@ center{
   }
   
   .inner-footer {
-     width: 95%;
+     width: 100%;
      margin: auto;
      padding: 30px 10px;
      display: flex;
